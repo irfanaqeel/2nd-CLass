@@ -1,0 +1,101 @@
+6:31 PM 6/15/2020use script tag in below body tag.
+
+875020
+
+write a program to store 3 students:
+1 var mein 3 students ke name,1 var mein in 3non ke scores,1 var mein maximum score phir document.write waale statements mein
+"Score of " + Student[0] + "is" + marksObt[0] +". Percentage : " + (marksObt[0]/maxMarks)*100
+
+
+declare and initiliaze empty multidimensio:
+Array[[0,1,2,3][1,0,1,2][2,1,0,1]]
+
+task 5:
+Aap prompt mein placeholder ki jga 5 rkho ge to default pr 5 ks tablr chlega,1 var pr promp store kro,1 var pr n++ store kro jisko 1 se initialize kro,or 1 var pr pichle 2non var ka product store kro aur phr 10 times statement likhdo multiply ka
+
+
+both pass same:
+1 var mein correct password store kren,1 var meun prompt ke through user se password maangen,aur phr "if" aur "else" ke statement use kren,mtlb if mein condition aayegi ke user ka input or aapka correct equal hain to "alert" krdo,wrna else mein wrong password 
+
+
+chap 5 task 3:
+1) Var a;
+2) document.write("what is the value of declared variable") ;
+3) a = 6;
+isi trh baqi b hn
+
+message hello:
+let message;
+message = "Hello World";
+alert(message) ;
+
+
+
+CLass 14::
+for date:
+var a = new Date()
+
+to convert date into string
+var b = a.toString()
+var c=b.slice(0,3)
+
+
+for day:
+a.getday()
+
+var dob = new date("Dec 5, 1998")
+
+var dobmili = dob.gettime()
+
+var today = new date()
+
+var todarmili = today.gettime()
+
+
+FUNCTIONS:::
+
+
+
+Class ## 15::
+
+in double quotation use single
+in single quotation use double
+
+
+
+DOmain:
+
+1go to godaddy or hostgator
+when you connect your website with free hosting required DNS
+2. got to firebase
+3.hosting
+4.add custom domain
+5.copy domain in firebase 
+6. uncheck redirect
+7.wrte WWW.
+8/go to records
+9.add button
+10.select type
+11.@
+12.paste verifivation text
+13 go again recirds
+14 type set A
+15 host @ 
+16 pionts to ip addres1
+17 do agian for 2nd ip
+then finish
+continur
+
+
+
+********Class 17********
+
+more bydefault functions:
+setInterval(function,time) = repeatively running
+
+setTimeout(function,time) = after sometime
+
+clearInterval = stop setInterval
+
+childNodes = nodes target by this
+ 

@@ -1,0 +1,125 @@
+/////////////Class 26\\\\\\\\\\\\\\\\\
+
+use map for li
+
+to get data from one component to other component
+like; Header in Main
+<Header / > write in main>return
+
+
+in HTML:
+class = "header"
+in React:
+in return( className = "header"
+and import in app.js like: import '.App.css'
+
+in HTML:
+style="background-color: red;"
+in react: called propo, and use camelCase
+style={{backgroundColor: 'red', fontSize: 12}}
+
+
+in React:
+self closing tag required closing tag
+<img></img>
+
+seperate component in New file:
+make folder components
+make file: Header.js
+write; import React from 'react'(write this line at top is neccessary)
+
+
+class Header extendds React.Component {
+	render(){
+		return(
+			div className="header" 
+				h2 Header h2
+			div
+)
+		
+}
+}
+ 
+export default Header;
+
+to import in App.jsx::
+write at top; import Header(component name) from './components/Header'(path/location)
+
+make file: Footer.js
+write; import React from 'react'(write this line at top is neccessary)
+
+
+class Footer extendds React.Component {
+	render(){
+		return(
+			div className="footer" 
+				h2 Footer h2
+			div
+)
+		
+}
+}
+ 
+export default Footer;
+
+to import in App.jsx::
+write at top; import Footer(component name) from './components/Footer'(path/location)
+
+
+if nodeMoudules deleted: what to do
+run npm install in cmd in react project
+
+
+BootsStrap::
+open react bootstrap
+get start
+install it
+use old Bootstrap
+copy code and paste it in App.jsx
+javascript file link of Bootstrap paste in index,html
+
+
+Material UI:::
+Get started
+install npm in react project
+
+
+
+Deploy React in Firebase::
+run command in react project
+npm run build 
+select build folder
+paste it in other folder
+deploy in firebase
+
+
+
+
+//////////////CLASS 27\\\\\\\\\\\\\
+
+multiple import and export:
+import{name1, name2} from path;
+export {
+name1,
+name2
+}
+
+to use bootstrap in react use:
+html to jsx online and paste in component return
+
+
+this.state = {
+name:
+email:
+value: ""
+}
+
+
+send data one component to another component::
+use props  ("props==>", this.props)
+
+
+
+ //////////////CLASS 28\\\\\\\\\\\\\
+
+

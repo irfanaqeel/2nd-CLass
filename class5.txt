@@ -1,0 +1,78 @@
+go to Firebase.google.com
+go to console
+make project(online webmobile)
+continue
+create projec
+install nodejs.org(for deployment)recommended
+open cmd
+write:
+node
+npn
+firebase (npminstall --global firebase-tools )
+
+type command
+firebase login
+then yes
+allow acces
+firebase init
+ys
+go to hosting and space then enter
+select yuor project
+make public
+replace index.html with your file
+friebase deploy
+
+just write firebase deploy to save changes
+
+
+
+
+go to godaddy
+write something domain name
+buy and sell it costly
+googlefont.com to download fonts
+
+
+
+
+
+https://myonlinewebnmobile.web.app
+
+
+CLASS 6:
+ramadan timing: 3-5 PM
+
+hover, focus, active(use on button) 
+
+chapter # 13 BOXES
+min and max width for limitation of size of box/table
+
+overflow scroll:used when text is more than box/div it shows scroll bar.
+
+overflow hidden:used when text is more than box/div it won't shows scroll bar.
+
+padding is b/w para and border
+margine is b/w border and body/other border
+
+inline remove padding and margine while inline-block won't
+or none will vanish
+
+text shadow
+box shadow
+
+border-radius to round corner
+
+CHAPTER #  14: list, tables and forms
+
+list-style-type:circle; (to change bullets of order list.
+
+list-style-type:decimal; (to change order in unorder list)
+
+list-style-image: url="" (to add image in bullets)
+
+list-style-position:inside 
+
+
+
+
+
